@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chinese and English switching</string>
+
+    <string name="language_cn">CHINESE</string>
+    <string name="language_en">ENGLISH</string>
+    <string name="language_auto">AUTO</string>
+    <string name="value_string">Current user selects language: %s</string>
+    <string name="value_string1">Ordinary language check is correct</string>
+    <string name="language_select">Currently selected language: %s</string>
+
+    <string name="service_create">created service</string>
+    <string name="intent_service_create">created IntentService</string>
+    <string name="switch_lungage" tools:ignore="MissingTranslation">Switch language</string>
+    <string name="second_page" tools:ignore="MissingTranslation">The second page test language</string>
+    <string name="second_page_lungage" tools:ignore="MissingTranslation">I didn’t think about it, sister, you’re not good for it. You’ll just go back if you’re hungry. I’ll be crazy and continue to figure it out. V Mom’s room, Cassano. Trouble you are most of the girls’ okay part. Is that right? The part over there is that part, isn’t it part of the beauties, yes baby, the part is okay, you’re not, I said, Allawi said, dreaming of you</string>
+</resources>

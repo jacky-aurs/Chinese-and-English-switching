@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">中英文切换</string>
+    <string name="language_cn" tools:ignore="MissingTranslation">中文</string>
+    <string name="language_en" tools:ignore="MissingTranslation">ENGLISH</string>
+    <string name="language_auto" tools:ignore="MissingTranslation">自动</string>
+    <string name="language_traditional" tools:ignore="MissingTranslation">繁體</string>
+    <string name="value_string" tools:ignore="MissingTranslation">当前的语言是: %s</string>
+    <string name="value_string1" tools:ignore="MissingTranslation">普通的语言检查是否正确</string>
+    <string name="language_select" tools:ignore="MissingTranslation">当前选择的语言: %s</string>
+    <string name="service_create" tools:ignore="MissingTranslation">已创建service</string>
+    <string name="intent_service_create" tools:ignore="MissingTranslation">已创建IntentService</string>
+    <string name="switch_lungage" tools:ignore="MissingTranslation">切换语言</string>
+    <string name="second_page" tools:ignore="MissingTranslation">第二个页面测试语言</string>
+    <string name="second_page_lungage" tools:ignore="MissingTranslation">没想，妹妹，没出息你不和发看就是的返回i饿啊就会疯狂的继续弄不明白v妈的房间卡萨诺麻烦    你是大部分女生的没事的那部分那边是的难道是部分那边的是那部分没难道是部分美女吧是的宝贝没事的部分你不是的我诶阿拉维说，梦到你</string>
+</resources>
